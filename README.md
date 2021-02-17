@@ -54,4 +54,4 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ## Contact
 
--   GitHub [@your-username](https://github.com/AmanDeep9925)
+-   GitHub [@AmanDeep9925](https://github.com/AmanDeep9925)
