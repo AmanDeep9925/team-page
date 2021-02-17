@@ -27,10 +27,8 @@
 ## Table of Contents
 
 -   [Overview](#overview)
-    -   [Built With](#built-with)
--   [Features](#features)
+-   [Built With](#built-with)
 -   [Contact](#contact)
--   [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
